@@ -1,0 +1,1 @@
+# baltic-amadeus-assignment
