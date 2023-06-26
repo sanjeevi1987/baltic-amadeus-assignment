@@ -33,9 +33,9 @@ DEFINE STREAM strin.
 
 /* ***************************  Main Block  *************************** */
 
-INPUT STREAM strin FROM "input/EmployeesReport_20220401_101220.csv".
+INPUT STREAM strin FROM "task1/input/EmployeesReport_20220401_101220.csv".
 
-LOG-MANAGER:LOGFILE-NAME = "log/family_import_with_changing_values.log".
+LOG-MANAGER:LOGFILE-NAME = "task1/log/family_import_with_changing_values.log".
 
 REPEAT TRANS:
     
